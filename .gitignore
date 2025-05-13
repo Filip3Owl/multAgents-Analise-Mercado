@@ -40,7 +40,6 @@ venv.bak/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # Arquivos de sistema
 .DS_Store
